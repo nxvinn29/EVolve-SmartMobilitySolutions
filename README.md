@@ -44,7 +44,6 @@ Windows:
 ```bash
 git clone https://github.com/codewithsadee/volti.git
 ```
-
 ### Contact
 
 If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
